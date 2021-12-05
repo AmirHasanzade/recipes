@@ -1,0 +1,194 @@
+{
+  "recipes": [
+    {
+      "id": 2,
+      "name": "Burger",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "buns"
+        },
+        {
+          "id": 2,
+          "name": "meat"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 3,
+      "name": "Salad",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "lettuce"
+        },
+        {
+          "id": 2,
+          "name": "tomato"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 4,
+      "name": "Soup",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "water"
+        },
+        {
+          "id": 2,
+          "name": "tomato"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 5,
+      "name": "Cake",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 6,
+      "name": "Cookie",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 7,
+      "name": "Cupcake",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 8,
+      "name": "Pancake",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 9,
+      "name": "Waffle",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 10,
+      "name": "Cup",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "flour"
+        },
+        {
+          "id": 2,
+          "name": "eggs"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients"
+    },
+    {
+      "id": 1,
+      "name": "Pizza",
+      "ingredients": [
+        {
+          "id": 1,
+          "name": "dough"
+        },
+        {
+          "id": 2,
+          "name": "tomato"
+        },
+        {
+          "id": 3,
+          "name": "cheese"
+        }
+      ],
+      "instructions": "Mix ingredients!!! Duh!!!"
+    }
+  ]
+}
